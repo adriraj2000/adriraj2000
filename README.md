@@ -20,8 +20,6 @@
 - 🌱 I’m currently learning more about Computer Networks.
 - 💬 Ask me about Cricket or any tech related stuff.
 
-[![Linkedin: adri23](https://img.shields.io/badge/-adri23-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adri23/)](https://www.linkedin.com/in/adri23/)
-
 
 **Languages and Tools:**  
 
