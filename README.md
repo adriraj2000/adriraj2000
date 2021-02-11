@@ -1,37 +1,59 @@
-## Hello, I'm Adriraj Chaudhuri 👋
+
+# Hello, folks! <img src="https://github.com/SAMAYV/SAMAYV/blob/main/Assets/hi.gif" width="30px">
 
 
-<a href="https://twitter.com/AdrirajAdriraj">
-  <img align="left" alt="Adriraj's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://linkedin.com/in/adri23">
-  <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.facebook.com/adriraj.chaudhuri">
-  <img align="left" alt="Adriraj's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+<br />
 
-<br/>
-<br/>
+I am a pre-final year student at Indian Institute of Technology, Guwahati. I like exploring tech and building new stuffs. I like to explore new algorithms and follow competitive programming and development coding. I work mainly on NodeJS .Apart from tech, I am big time foodie. You can reach me through LinkedIn.
 
-- 🌱 I’m currently learning more about Computer Networks.
-- 💬 Ask me about Cricket or any tech related stuff.
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+  
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 I’m currently building my development and algorithmic skills.
+- 🌱 I’m currently a learner. 
+- 💬 Ask me about anything, I am happy to help
+- 📫 How to reach me: [@adriraj_c](https://www.linkedin.com/in/adri23/)
+- 📝[Resume](https://drive.google.com/)
 
 
 **Languages and Tools:**  
+ 
+<p align="center">
+  <div align="left" >
+  <img src="https://github.com/SAMAYV/SAMAYV/blob/main/Assets/c++.gif" width="45">   
+  <img src="https://github.com/SAMAYV/SAMAYV/blob/main/Assets/python.gif" width="40"> 
+  </div>
+  <br>
+  <div align="left">
+  <img src="https://github.com/SAMAYV/SAMAYV/blob/main/Assets/html.gif" width="35">
+  <img src="https://github.com/SAMAYV/SAMAYV/blob/main/Assets/css.gif" width="35">
+  <img src="https://github.com/SAMAYV/SAMAYV/blob/main/Assets/js.webp" width="35">
+  <img src="https://github.com/SAMAYV/SAMAYV/blob/main/Assets/git.gif" width="35">
+  <img src="https://github.com/SAMAYV/SAMAYV/blob/main/Assets/github.webp" width="35">
+  </div>
+</p>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+
+<!-- TODO-IST:START 
+🚧 **My Todoist Stats:**
+🏆            
+🌸            
+✅  
+⏳  
+-->
+<!-- TODO-IST:END -->
 
 
+📈 My GitHub Stats
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=adriraj2000&show_icons=true&theme=gotham" alt="adriraj_c" />
 
 
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
+### 📫 Connect with me<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
+ 
+<a href="https://www.linkedin.com/in/adri23/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a> <a href="https://www.facebook.com/adriraj.chaudhuri" target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-128.png" width="40"></a> <a href="mailto:adriraj@iitg.ac.in" target="_blank"><img src="https://image.flaticon.com/icons/svg/281/281769.svg" width="40"></a>
+<br>
+<br>
 
