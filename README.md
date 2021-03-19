@@ -4,7 +4,7 @@
 
 <br />
 
-I am a pre-final year student at Indian Institute of Technology, Guwahati. I like exploring tech and building new stuffs. I like to explore new algorithms and follow competitive programming and development coding. I work mainly on NodeJS .Apart from tech, I am big time foodie. You can reach me through LinkedIn.
+I am a pre-final year student at Indian Institute of Technology, Guwahati. I like exploring tech and building new stuffs. I like to explore new algorithms and follow competitive programming and web development. I work mainly on NodeJS .Apart from tech, I am big time foodie and a cricket fan. You can reach me through LinkedIn.
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
@@ -15,7 +15,7 @@ I am a pre-final year student at Indian Institute of Technology, Guwahati. I lik
 - 🌱 I’m currently a learner. 
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [@adriraj_c](https://www.linkedin.com/in/adri23/)
-- 📝[Resume](https://drive.google.com/)
+- 📝[Resume](shorturl.at/dBFPY)
 
 
 **Languages and Tools:**  
