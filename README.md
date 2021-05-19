@@ -12,7 +12,7 @@ I am a pre-final year student at Indian Institute of Technology, Guwahati. I lik
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently building my development and algorithmic skills.
-- 🌱 I’m currently a learner. 
+- 🌱 Always ready to learn new things. 
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [@adriraj_c](https://www.linkedin.com/in/adri23/)
 - 📝[Resume](https://drive.google.com/file/d/1qcZeMTXyMK9gzSF3iaIubDE1-jOdzS8r/view)
