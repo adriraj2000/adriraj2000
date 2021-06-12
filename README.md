@@ -8,6 +8,8 @@ I am a pre-final year student at Indian Institute of Technology, Guwahati. I lik
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adriraj2000" alt="Adriraj Chaudhuri's profile views"/> </p>
+
   
 **Talking about Personal Stuffs:**
 
