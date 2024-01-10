@@ -21,7 +21,8 @@ I am currently working in Inmobi as SDE-1. I did my graduation from IIT Guwahati
  
 <p align="center">
   <div align="left" >
-  <img src="https://github.com/SAMAYV/SAMAYV/blob/main/Assets/c++.gif" width="45">   
+  <img src="https://github.com/SAMAYV/SAMAYV/blob/main/Assets/c++.gif" width="45">
+  <img src="https://github.com/SAMAYV/SAMAYV/blob/main/Assets/java.gif" width="45">
   <img src="https://github.com/SAMAYV/SAMAYV/blob/main/Assets/python.gif" width="40"> 
   </div>
   <br>
