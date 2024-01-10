@@ -4,7 +4,7 @@
 
 <br />
 
-I am a pre-final year student at Indian Institute of Technology, Guwahati. I like exploring tech and building new stuffs. I like to explore new algorithms and follow competitive programming and web development. I work mainly on NodeJS .Apart from tech, I am big time foodie and a cricket fan. You can reach me through LinkedIn.
+I am currently working in Inmobi as SDE-1. I did my graduation from IIT Guwahati .Apart from tech, I am big time foodie and a cricket fan. You can reach me through LinkedIn.
 
 
 
